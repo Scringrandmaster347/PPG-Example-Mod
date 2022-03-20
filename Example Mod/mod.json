@@ -1,0 +1,19 @@
+{
+  "Name": "Example Mod",
+  "Author": "Zkryhngro�meister",
+  "Description": "This Mod was created for my tutorial, on how to create a simple Mod",
+  "ModVersion": "1.0",
+  "GameVersion": "1.23+",
+  "ThumbnailPath": "ModIcon.png",
+  "EntryPoint": "Mod.MainModClass",
+  "Tags": [
+    "Fun",
+    "Realistic"
+  ],
+  "Scripts": [
+    "MainModClass.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": ""
+}
